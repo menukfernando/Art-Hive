@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
 </head>
 <body>
   <h1>Art Hive 🎨🐝</h1>
@@ -12,6 +11,7 @@
   <p>
     Art Hive is a website showcasing a collection of AI-generated artworks created using Leonardo.ai.
     It serves as a platform for artists and art enthusiasts to explore unique and captivating visual creations.
+    The website is currently under development, and there are more exciting features and enhancements planned to be added in the future.
   </p>
 
   <h2>Table of Contents</h2>
